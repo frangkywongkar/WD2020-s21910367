@@ -1,0 +1,16 @@
+.px{
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+}
+.em{
+    font-family: 'Caveat', cursive;
+    font-size: 3em;
+}
+.rem{
+    font-family: 'Merienda', cursive;
+    font-size: 4rem;
+}
+p{
+    font-family: 'Nunito Sans', sans-serif;
+}
