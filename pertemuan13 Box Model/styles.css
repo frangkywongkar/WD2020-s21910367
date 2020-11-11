@@ -1,0 +1,21 @@
+img {
+    display: block;
+    background-color: lightskyblue;
+    padding: 20px;
+    border: 10px solid red;
+}
+
+.grinning {
+    margin: 0px;
+}
+
+.smiling {
+    margin: 219px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.winking {
+    margin: 439px;
+    margin-top: 0%;
+}
